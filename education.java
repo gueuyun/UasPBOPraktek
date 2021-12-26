@@ -1,4 +1,3 @@
-
 public class Education {
 
     String degree, major;
